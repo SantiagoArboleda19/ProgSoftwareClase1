@@ -1,2 +1,2 @@
-# ProgSoftwareClase1
+# ProgSoftwareClase6-8
 Modificacion 
